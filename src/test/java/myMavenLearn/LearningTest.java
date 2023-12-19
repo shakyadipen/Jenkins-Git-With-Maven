@@ -10,7 +10,7 @@ public class LearningTest {
 		
 		System.out.println("Run");
 		WebDriver driver=new FirefoxDriver();
-		driver.get("https://www.google.com.np/?gws_rd=cr&ei=roKsUtBwi5CuB5j7gMAM");
+		driver.get("https://www.youtube.com");
 		driver.manage().window().maximize();
 	}
 
